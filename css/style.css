@@ -1,0 +1,43 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.bio{
+    color: white;
+    text-decoration: none;
+}
+
+.A{
+    margin-top: 50px;
+}
+
+.top{
+    color: white;
+    text-decoration: none;
+}
+
+.B{
+    margin-top: 100px;
+}
+
+.log{
+    color: white;
+    text-decoration: none;
+}
+
+.C{
+    margin-top: 100px;
+}
+
+img{
+    width: 260px;
+    position: absolute;
+    left: 50px;
+}
