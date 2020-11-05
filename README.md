@@ -1,2 +1,2 @@
-# quuen-site
+# queen-site
 site do quuen
